@@ -1,6 +1,6 @@
 a for apple
 b for bat
-c for cat
+c for cow
 d for dog
 
 
