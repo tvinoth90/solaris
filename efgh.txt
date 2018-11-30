@@ -1,0 +1,4 @@
+e for elephant
+f for fox
+g for goat
+h for hen
